@@ -1,4 +1,4 @@
 public class App{
-public static coid main(String[] args){
+public static void main(String[] args){
 	System.out.println("Hai bro");
 }}
